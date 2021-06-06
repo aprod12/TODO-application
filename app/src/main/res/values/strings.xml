@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NagyHF</string>
+    <string name="action_settings">Beállítások</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="delete_btn">Törlés</string>
+    <string name="edit_btn">edit</string>
+    <string name="add_item_text">Új elem hozzáadása</string>
+    <string name="added_todo_name">Todo neve</string>
+    <string name="added_todo_date">Todo dátuma</string>
+    <string name="add_btn">Hozzáadás</string>
+    <string name="added_todo_short_text">Rövid Leírás</string>
+    <string name="new_todo_title">Új TODO</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="settings_title">Beállítások</string>
+    <string name="night_mode_title">Sötét Mód</string>
+    <string name="calendar_save_title">Adatok naptárba mentése</string>
+    <string name="edit_todo_title">TODO szerkesztése</string>
+    <string name = "save_btn">Mentés</string>
+    <string name="is_date_changed_title">Akarom változtatni a dátumot</string>
+</resources>
